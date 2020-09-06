@@ -6,5 +6,5 @@ Paquete de control para FIUNA
 ~~~
 pip install slycot
 pip install control
-pip install sca_fiuna
+pip install sca-fiuna
 ~~~
