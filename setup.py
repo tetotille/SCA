@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="sca-fiuna", # Replace with your own username
-    version="0.0.1",
+    version="0.1.0",
     author="Jorge Tillería",
     author_email="jtilleria@fiuna.edu.py",
     description="Un paquete de uso para la materia de control en la FIUNA",
